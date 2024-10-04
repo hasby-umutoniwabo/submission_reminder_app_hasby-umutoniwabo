@@ -1,2 +1,2 @@
-# submission_reminder_app_hasby-umutoniwabo
-submission reminder app
+# submission_reminder_app
+submission reminder app with shell scripting
